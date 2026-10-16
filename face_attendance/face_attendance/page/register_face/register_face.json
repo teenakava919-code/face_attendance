@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2026-08-04 12:45:01.266755",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-08-04 12:45:01.266755",
+ "modified_by": "Administrator",
+ "module": "face_attendance",
+ "name": "register_face",
+ "owner": "Administrator",
+ "page_name": "register_face",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "REGISTER FACE"
+}

@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2026-09-21 11:19:04.076412",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-09-21 11:19:04.076412",
+ "modified_by": "Administrator",
+ "module": "face_attendance",
+ "name": "live-attendance",
+ "owner": "Administrator",
+ "page_name": "live-attendance",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "live attendance"
+}
